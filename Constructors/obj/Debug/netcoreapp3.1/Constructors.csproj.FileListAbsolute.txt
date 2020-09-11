@@ -1,0 +1,4 @@
+D:\C# Projects\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache
+D:\C# Projects\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+D:\C# Projects\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+D:\C# Projects\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
